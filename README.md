@@ -1,1 +1,2 @@
 # DBZ-Database
+A relational SQL database based on the Dragon Ball Z universe, featuring structured tables, sample data, and example queries. This project is designed to help you explore database design while working with familiar DBZ characters and transformations. The schema includes characters, forms, and power‑level data that can be easily extended or queried for experimentation. It’s a simple, lightweight foundation for learning SQL through a fun theme.
